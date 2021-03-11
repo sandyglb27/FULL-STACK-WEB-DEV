@@ -1,0 +1,22 @@
+*{
+
+    font-style: italic;
+}
+
+div{
+    color: blue;
+}
+
+p{
+    color: red;
+}
+.big{
+    font-size: 25pt;
+}
+.bold{
+    font-weight: 300;
+}
+
+#one{
+    background-color: yellow;
+}
