@@ -23,7 +23,7 @@ addBtn.addEventListener("click" , function(e){
     addtxt.Value ="";
     console.log(notesobj);
     showNotes();
-    function showNotes()) {
+    function showNotes() {
         let notes=localStorage.getItem("notes");
 
         if(notes = null){
